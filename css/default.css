@@ -95,7 +95,7 @@ a:hover {
 
 .container > header nav a:after {
 	content: attr(data-info);
-	color: #47a3da;
+	color: #212121;
 	position: absolute;
 	width: 600%;
 	top: 120%;
@@ -110,7 +110,7 @@ a:hover {
 }
 
 .container > header nav a:hover {
-	background: #47a3da;
+	background: #212121;
 }
 
 .icon-drop:before, 
